@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.main div {
+  margin: 40px;
+  max-width: 600px;
+  text-align: center;
+}

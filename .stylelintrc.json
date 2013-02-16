@@ -1,0 +1,28 @@
+{
+  "extends": ["stylelint-config-standard", "stylelint-config-prettier"],
+  "plugins": ["stylelint-csstree-validator"],
+  "rules": {
+    "at-rule-no-unknown": null,
+    "csstree/validator": true,
+    "rule-empty-line-before": null,
+    "media-feature-range-notation": null,
+    "declaration-empty-line-before": null,
+    "color-function-notation": null,
+    "alpha-value-notation": null,
+    "selector-class-pattern": null
+  },
+  "ignoreFiles": [
+    "node_modules",
+    "build/**",
+    "dist/**",
+    "public",
+    "out",
+    ".next",
+    "docs",
+    "**/bootstrap*.css",
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.ts",
+    "**/*.tsx"
+  ]
+}

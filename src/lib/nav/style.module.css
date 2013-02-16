@@ -1,0 +1,46 @@
+.nav {
+  position: sticky;
+
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+
+  padding: 5px 32px;
+
+  background-color: rgba(70, 130, 180, 0.87);
+  backdrop-filter: blur(2px);
+}
+
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 600;
+
+  margin-right: 10px;
+  padding: 4px 8px;
+
+  border-radius: 4px;
+  color: #fff;
+  border: 1.5px solid #123;
+}
+
+.links a:hover {
+  background-color: red;
+  transition: 300ms;
+}
+
+.nav h2 {
+  font-size: 20px;
+  color: #fff;
+}
+
+.nav h3 {
+  font-size: 20px;
+  letter-spacing: -1px;
+  color: #111;
+}

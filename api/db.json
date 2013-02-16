@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "DevPro",
+      "description": "A responsive and with a modern design page, where you can buy tickets to online classes. Here I made the Front-end only.",
+      "tags": [
+        "CSS",
+        "HTML",
+        "Responsive Design",
+        "Mobile First",
+        "User Experience",
+        "User Interface"
+      ],
+      "source": "https://github.com/SevlaMare/CSS-course-platform",
+      "link": "https://sevlamare.github.io/CSS-course-platform/",
+      "img": "https://sevlamare.github.io/images/proj1.webp"
+    },
+    {
+      "id": 2,
+      "title": "Wallet",
+      "description": "Experience financial control like never before with our mobile web app designed to effortlessly manage your cash flow. Say goodbye to financial stress as you gain real-time insights into your income and expenses, all in one place. Streamline your finances, make informed decisions, and take charge of your financial future with ease.",
+      "tags": [
+        "Ruby",
+        "Ruby On Rails",
+        "Sass",
+        "Integration Test",
+        "Firebase",
+        "Postgres"
+      ],
+      "source": "https://github.com/SevlaMare/wallet",
+      "link": "https://wallet-703.herokuapp.com/",
+      "img": "https://sevlamare.github.io/images/proj2.webp"
+    },
+    {
+      "id": 3,
+      "title": "Robot vs Ninja",
+      "description": "Want to play fun and short game? You can eliminate the ninjas using a robot with massive destruction weapons. Make the highest score and compare it globally. User arrows and space bar to play.",
+      "tags": ["Javascript", "Webpack", "Jest", "ES6", "API", "Netlify"],
+      "source": "https://github.com/SevlaMare/robotGame",
+      "link": "https://robot-vs-ninja.netlify.app/",
+      "img": "https://sevlamare.github.io/images/proj3.webp"
+    }
+  ]
+}

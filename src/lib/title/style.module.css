@@ -1,0 +1,16 @@
+.title {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 1.17em;
+  font-weight: 900;
+}
+
+.line {
+  width: 205px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+
+  border: none;
+  border-top: 1px solid red;
+}
